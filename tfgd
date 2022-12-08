@@ -1,0 +1,29 @@
+html>
+	<head>
+		<style>
+			a{
+			
+			}
+			a:hover{
+				color:red;
+			}
+			a > ul{
+			
+			}
+			p{
+			
+			}
+		</style>
+	</head>
+	<body>
+		<ul>
+			<li><a href="#">Home</a></li>
+			<li><a href="#">Portfolio</a></li>  
+			<li><a href="#">About</a></li>
+		</ul>
+		<h1>Start</h1>
+		<p>Na pagórku niewielkim, we brzozowym gaju, stał dwór szlachecki, z drzewa, lecz podmurowany.</p>
+		<h2>Dalej</h2>
+		<p>Świeciły się z daleka <a href="#"> pobielane ściany</a>.</p>
+	</body>
+</html>
